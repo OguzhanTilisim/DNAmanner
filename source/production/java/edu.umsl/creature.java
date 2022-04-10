@@ -1,5 +1,5 @@
 package edu.umsl;
 
 public abstract class creature {
-    public abstract String feed();
+    public abstract String eatFood();
 }

@@ -3,12 +3,12 @@ package edu.umsl;
 class Fungi extends creature implements Reproduction {
 
     @Override
-    public String feed() {
+    public String eatFood() {
         return "external digestion with hyphae)";
     }
 
     @Override
-    public String modeReproduction() {
+    public String modeOfReproduction() {
         return "Spores";
     }
 

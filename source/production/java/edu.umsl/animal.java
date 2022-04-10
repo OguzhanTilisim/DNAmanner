@@ -2,11 +2,11 @@ package edu.umsl;
 
 class Animal extends creature implements Reproduction {
     @Override
-    public String feed() {
+    public String eatFood() {
         return "ingestion";
     }
     @Override
-    public String modeReproduction() {
+    public String modeOfReproduction() {
         return "Sexual Reproduction";
     }
 
