@@ -6,8 +6,7 @@ class Plant extends creature implements Reproduction {
         return "sunlight (aka photosynthesis)";
     }
     @Override
-    public String modeOfReproduction() {
-        return "Seeds";
+    public String modeOfReproduction() {return "Seeds";
     }
 
 }

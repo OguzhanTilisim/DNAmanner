@@ -1,5 +1,4 @@
 package edu.umsl;
-
 class oneki extends Fungi {
     @Override
     public String toString() {

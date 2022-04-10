@@ -1,5 +1,4 @@
 package edu.umsl;
-
 class avacado extends Plant {
     @Override
     public String toString() {

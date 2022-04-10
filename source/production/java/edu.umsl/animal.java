@@ -1,5 +1,4 @@
 package edu.umsl;
-
 class Animal extends creature implements Reproduction {
     @Override
     public String eatFood() {

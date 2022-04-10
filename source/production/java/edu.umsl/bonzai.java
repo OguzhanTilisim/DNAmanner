@@ -1,5 +1,4 @@
 package edu.umsl;
-
 class bonzai extends Plant {
     @Override
     public String toString() {

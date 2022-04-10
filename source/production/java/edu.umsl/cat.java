@@ -1,5 +1,4 @@
 package edu.umsl;
-
 class cat extends Animal {
     @Override
     public String toString() {

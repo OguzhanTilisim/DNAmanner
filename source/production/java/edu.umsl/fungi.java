@@ -1,5 +1,4 @@
 package edu.umsl;
-
 class Fungi extends creature implements Reproduction {
 
     @Override
